@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=alle_geraete
+Comment=alle Geräte gleichzeitig mit scrcpy verbinden
+Exec=/path/of/your/file/alle_geraete_scrpy.sh
+Icon=/path/to/your/icon
+Terminal=false
+Type=Application
