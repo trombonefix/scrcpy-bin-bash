@@ -1,7 +1,7 @@
 [Desktop Entry]
-Name=alle_geraete
-Comment=alle Geräte gleichzeitig mit scrcpy verbinden
-Exec=/path/of/your/file/alle_geraete_scrpy.sh
+Name=alle_devices
+Comment=connect all devices with scrcpy
+Exec=/path/of/your/file/all_devices_scrpy.sh
 Icon=/path/to/your/icon
 Terminal=false
 Type=Application
